@@ -1,0 +1,9 @@
+{
+  "book": "Genesis",
+  "chapter": 4,
+  "textStatus": "reference_only",
+  "verses": [
+    {"number": 1, "lyric": "Adam knew his wife Eve;\nshe conceived and bore Cain."},
+    {"number": 2, "lyric": "Again she bore, his brother Abel.\nAbel kept the sheep."}
+  ]
+}

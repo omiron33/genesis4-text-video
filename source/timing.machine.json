@@ -1,0 +1,678 @@
+{
+  "alignmentEvidence": {
+    "baseAsrSha256": "b24a3f32e839efef2800939601ab654ba141f0ea0c0c9bdeb7748b85e8074507",
+    "knownUncertainty": "Proper names and phrase seams may differ by 1–3s. Focused tiny.en and base.en crops find no sung words at 299–312s; outro is treated as instrumental. No direct human listening alignment is claimed.",
+    "method": "ASR segment windows plus in-segment token interpolation; not human-aligned",
+    "openingAnchor": "Focused CPU base.en word timestamps on original audio: first vocal 11.42s, next phrase 15.76s, third phrase 22.8s, verse 2 begins about 27.2s. The 0–11.42s interval is instrumental.",
+    "tinyAsrSha256": "ee345fcce0a5802e7d62e4d330c51eea996362fb52133b7065781a0f0ff9f266",
+    "wordAsrSha256": "ce07730e738864101607b77b3cd7708a913a52d4bb005e685b6681d99f5549ac"
+  },
+  "segments": [
+    {
+      "end": 15.76,
+      "line": 1,
+      "start": 11.42,
+      "text": "Adam knew his wife Eve;",
+      "verse": 1
+    },
+    {
+      "end": 22.8,
+      "line": 2,
+      "start": 15.76,
+      "text": "she conceived and bore Cain.",
+      "verse": 1
+    },
+    {
+      "end": 27.2,
+      "line": 3,
+      "start": 22.8,
+      "text": "I have gained a man through God, she said.",
+      "verse": 1
+    },
+    {
+      "end": 32.0,
+      "line": 1,
+      "start": 27.2,
+      "text": "Again she bore, his brother Abel.",
+      "verse": 2
+    },
+    {
+      "end": 35.0,
+      "line": 2,
+      "start": 32.0,
+      "text": "Abel kept the sheep,",
+      "verse": 2
+    },
+    {
+      "end": 38.0,
+      "line": 3,
+      "start": 35.0,
+      "text": "while Cain worked the ground.",
+      "verse": 2
+    },
+    {
+      "end": 39.667,
+      "line": 1,
+      "start": 38,
+      "text": "After a time Cain brought",
+      "verse": 3
+    },
+    {
+      "end": 41.062,
+      "line": 2,
+      "start": 39.667,
+      "text": "fruit of the earth",
+      "verse": 3
+    },
+    {
+      "end": 44,
+      "line": 3,
+      "start": 41.062,
+      "text": "as an offering to the Lord.",
+      "verse": 3
+    },
+    {
+      "end": 47.06,
+      "line": 1,
+      "start": 44,
+      "text": "Abel brought the firstborn of his sheep,",
+      "verse": 4
+    },
+    {
+      "end": 49.083,
+      "line": 2,
+      "start": 47.06,
+      "text": "and his fatlings.",
+      "verse": 4
+    },
+    {
+      "end": 55,
+      "line": 3,
+      "start": 49.083,
+      "text": "God looked upon Abel and his gifts.",
+      "verse": 4
+    },
+    {
+      "end": 58.038,
+      "line": 1,
+      "start": 55,
+      "text": "But Cain and his sacrifices",
+      "verse": 5
+    },
+    {
+      "end": 61.0,
+      "line": 2,
+      "start": 58.038,
+      "text": "He did not regard.",
+      "verse": 5
+    },
+    {
+      "end": 64.0,
+      "line": 3,
+      "start": 61.0,
+      "text": "Cain was deeply grieved;",
+      "verse": 5
+    },
+    {
+      "end": 67,
+      "line": 4,
+      "start": 64.0,
+      "text": "his face fell low.",
+      "verse": 5
+    },
+    {
+      "end": 70.0,
+      "line": 1,
+      "start": 67,
+      "text": "The Lord God asked Cain,",
+      "verse": 6
+    },
+    {
+      "end": 73.05,
+      "line": 2,
+      "start": 70.0,
+      "text": "Why are you so sorrowful?",
+      "verse": 6
+    },
+    {
+      "end": 77,
+      "line": 3,
+      "start": 73.05,
+      "text": "Why has your face fallen?",
+      "verse": 6
+    },
+    {
+      "end": 79.025,
+      "line": 1,
+      "start": 77,
+      "text": "If you brought it rightly",
+      "verse": 7
+    },
+    {
+      "end": 82.0,
+      "line": 2,
+      "start": 79.025,
+      "text": "but did not divide it rightly,",
+      "verse": 7
+    },
+    {
+      "end": 84.062,
+      "line": 3,
+      "start": 82.0,
+      "text": "have you not sinned?",
+      "verse": 7
+    },
+    {
+      "end": 88.033,
+      "line": 4,
+      "start": 84.062,
+      "text": "Be still; he shall submit to you,",
+      "verse": 7
+    },
+    {
+      "end": 92,
+      "line": 5,
+      "start": 88.033,
+      "text": "and you shall rule over him.",
+      "verse": 7
+    },
+    {
+      "end": 94.143,
+      "line": 1,
+      "start": 92,
+      "text": "Cain said to Abel his brother,",
+      "verse": 8
+    },
+    {
+      "end": 96.994,
+      "line": 2,
+      "start": 94.143,
+      "text": "Let us go out to the plain.",
+      "verse": 8
+    },
+    {
+      "end": 100.031,
+      "line": 3,
+      "start": 96.994,
+      "text": "There in the plain he rose against Abel",
+      "verse": 8
+    },
+    {
+      "end": 102,
+      "line": 4,
+      "start": 100.031,
+      "text": "and killed his brother.",
+      "verse": 8
+    },
+    {
+      "end": 105.0,
+      "line": 1,
+      "start": 102,
+      "text": "The Lord God asked Cain,",
+      "verse": 9
+    },
+    {
+      "end": 107.975,
+      "line": 2,
+      "start": 105.0,
+      "text": "Where is Abel, your brother?",
+      "verse": 9
+    },
+    {
+      "end": 111.025,
+      "line": 3,
+      "start": 107.975,
+      "text": "I do not know, he said;",
+      "verse": 9
+    },
+    {
+      "end": 114,
+      "line": 4,
+      "start": 111.025,
+      "text": "am I my brother's keeper?",
+      "verse": 9
+    },
+    {
+      "end": 116.054,
+      "line": 1,
+      "start": 114,
+      "text": "What have you done? the Lord said.",
+      "verse": 10
+    },
+    {
+      "end": 118.973,
+      "line": 2,
+      "start": 116.054,
+      "text": "Your brother's blood has a voice;",
+      "verse": 10
+    },
+    {
+      "end": 122,
+      "line": 3,
+      "start": 118.973,
+      "text": "it cries to Me from the ground.",
+      "verse": 10
+    },
+    {
+      "end": 124.04,
+      "line": 1,
+      "start": 122,
+      "text": "Now you are cursed from the earth;",
+      "verse": 11
+    },
+    {
+      "end": 125.778,
+      "line": 2,
+      "start": 124.04,
+      "text": "she opened her mouth",
+      "verse": 11
+    },
+    {
+      "end": 128.056,
+      "line": 3,
+      "start": 125.778,
+      "text": "to take your brother's blood",
+      "verse": 11
+    },
+    {
+      "end": 130,
+      "line": 4,
+      "start": 128.056,
+      "text": "from your hand.",
+      "verse": 11
+    },
+    {
+      "end": 132.96,
+      "line": 1,
+      "start": 130.0,
+      "text": "When you till the earth,",
+      "verse": 12
+    },
+    {
+      "end": 136.14,
+      "line": 2,
+      "start": 132.96,
+      "text": "she will no longer yield her strength.",
+      "verse": 12
+    },
+    {
+      "end": 138.4,
+      "line": 3,
+      "start": 136.14,
+      "text": "You will groan and tremble",
+      "verse": 12
+    },
+    {
+      "end": 144.0,
+      "line": 4,
+      "start": 138.4,
+      "text": "upon the earth.",
+      "verse": 12
+    },
+    {
+      "end": 150.975,
+      "line": 1,
+      "start": 148,
+      "text": "Cain said to the Lord God,",
+      "verse": 13
+    },
+    {
+      "end": 153.05,
+      "line": 2,
+      "start": 150.975,
+      "text": "My crime is too great",
+      "verse": 13
+    },
+    {
+      "end": 156,
+      "line": 3,
+      "start": 153.05,
+      "text": "for me to be forgiven.",
+      "verse": 13
+    },
+    {
+      "end": 158.042,
+      "line": 1,
+      "start": 156,
+      "text": "If You cast me out today",
+      "verse": 14
+    },
+    {
+      "end": 161.0,
+      "line": 2,
+      "start": 158.042,
+      "text": "from the face of the earth,",
+      "verse": 14
+    },
+    {
+      "end": 162.938,
+      "line": 3,
+      "start": 161.0,
+      "text": "hidden from Your presence,",
+      "verse": 14
+    },
+    {
+      "end": 165.083,
+      "line": 4,
+      "start": 162.938,
+      "text": "groaning and trembling on the earth,",
+      "verse": 14
+    },
+    {
+      "end": 169,
+      "line": 5,
+      "start": 165.083,
+      "text": "whoever finds me will kill me.",
+      "verse": 14
+    },
+    {
+      "end": 171.8,
+      "line": 1,
+      "start": 169,
+      "text": "The Lord God said, Not so.",
+      "verse": 15
+    },
+    {
+      "end": 173.088,
+      "line": 2,
+      "start": 171.8,
+      "text": "Whoever kills Cain",
+      "verse": 15
+    },
+    {
+      "end": 175.92,
+      "line": 3,
+      "start": 173.088,
+      "text": "will suffer vengeance sevenfold.",
+      "verse": 15
+    },
+    {
+      "end": 179.018,
+      "line": 4,
+      "start": 175.92,
+      "text": "The Lord set a mark upon Cain,",
+      "verse": 15
+    },
+    {
+      "end": 184,
+      "line": 5,
+      "start": 179.018,
+      "text": "so none who found him would kill him.",
+      "verse": 15
+    },
+    {
+      "end": 196.971,
+      "line": 1,
+      "start": 194.6,
+      "text": "Cain went out from God's presence",
+      "verse": 16
+    },
+    {
+      "end": 199.143,
+      "line": 2,
+      "start": 196.971,
+      "text": "and lived in the land of Nod,",
+      "verse": 16
+    },
+    {
+      "end": 201,
+      "line": 3,
+      "start": 199.143,
+      "text": "across from Edem.",
+      "verse": 16
+    },
+    {
+      "end": 205.3,
+      "line": 1,
+      "start": 203.1,
+      "text": "Cain knew his wife;",
+      "verse": 17
+    },
+    {
+      "end": 208.8,
+      "line": 2,
+      "start": 205.3,
+      "text": "she conceived and bore Enoch.",
+      "verse": 17
+    },
+    {
+      "end": 209.8,
+      "line": 3,
+      "start": 208.8,
+      "text": "He built a city",
+      "verse": 17
+    },
+    {
+      "end": 211.4,
+      "line": 4,
+      "start": 209.8,
+      "text": "and named it for his son, Enoch.",
+      "verse": 17
+    },
+    {
+      "end": 214.781,
+      "line": 1,
+      "start": 212,
+      "text": "To Enoch was born Gaidad.",
+      "verse": 18
+    },
+    {
+      "end": 216.844,
+      "line": 2,
+      "start": 214.781,
+      "text": "Gaidad fathered Maleleel,",
+      "verse": 18
+    },
+    {
+      "end": 218.906,
+      "line": 3,
+      "start": 216.844,
+      "text": "Maleleel fathered Mathusala,",
+      "verse": 18
+    },
+    {
+      "end": 221.8,
+      "line": 4,
+      "start": 218.906,
+      "text": "and Mathusala fathered Lamech.",
+      "verse": 18
+    },
+    {
+      "end": 222.9,
+      "line": 1,
+      "start": 221.8,
+      "text": "Lamech took two wives:",
+      "verse": 19
+    },
+    {
+      "end": 224.7,
+      "line": 2,
+      "start": 222.9,
+      "text": "one was named Ada,",
+      "verse": 19
+    },
+    {
+      "end": 225.6,
+      "line": 3,
+      "start": 224.7,
+      "text": "the other Sella.",
+      "verse": 19
+    },
+    {
+      "end": 226.7,
+      "line": 1,
+      "start": 225.6,
+      "text": "Ada bore Jobel,",
+      "verse": 20
+    },
+    {
+      "end": 228.7,
+      "line": 2,
+      "start": 226.7,
+      "text": "father of those who live in tents",
+      "verse": 20
+    },
+    {
+      "end": 229.9,
+      "line": 3,
+      "start": 228.7,
+      "text": "and tend the cattle.",
+      "verse": 20
+    },
+    {
+      "end": 231.5,
+      "line": 1,
+      "start": 229.9,
+      "text": "His brother's name was Jubal;",
+      "verse": 21
+    },
+    {
+      "end": 233.3,
+      "line": 2,
+      "start": 231.5,
+      "text": "he invented the psaltery",
+      "verse": 21
+    },
+    {
+      "end": 234.1,
+      "line": 3,
+      "start": 233.3,
+      "text": "and the harp.",
+      "verse": 21
+    },
+    {
+      "end": 235.2,
+      "line": 1,
+      "start": 234.1,
+      "text": "Sella bore Thobel,",
+      "verse": 22
+    },
+    {
+      "end": 237.5,
+      "line": 2,
+      "start": 235.2,
+      "text": "a smith of brass and iron.",
+      "verse": 22
+    },
+    {
+      "end": 240.0,
+      "line": 3,
+      "start": 237.5,
+      "text": "Thobel's sister was Noëma.",
+      "verse": 22
+    },
+    {
+      "end": 242.938,
+      "line": 1,
+      "start": 240,
+      "text": "Lamech said to Ada and Sella,",
+      "verse": 23
+    },
+    {
+      "end": 245.844,
+      "line": 2,
+      "start": 242.938,
+      "text": "Hear my voice, wives of Lamech;",
+      "verse": 23
+    },
+    {
+      "end": 247.037,
+      "line": 3,
+      "start": 245.844,
+      "text": "listen to my words.",
+      "verse": 23
+    },
+    {
+      "end": 250.917,
+      "line": 4,
+      "start": 247.037,
+      "text": "I have killed a man to my sorrow,",
+      "verse": 23
+    },
+    {
+      "end": 253,
+      "line": 5,
+      "start": 250.917,
+      "text": "a young man to my grief.",
+      "verse": 23
+    },
+    {
+      "end": 259.062,
+      "line": 1,
+      "start": 253,
+      "text": "Because vengeance was taken seven times for Cain,",
+      "verse": 24
+    },
+    {
+      "end": 262.167,
+      "line": 2,
+      "start": 259.062,
+      "text": "for Lamech it will be",
+      "verse": 24
+    },
+    {
+      "end": 265,
+      "line": 3,
+      "start": 262.167,
+      "text": "seventy times seven.",
+      "verse": 24
+    },
+    {
+      "end": 271.9,
+      "line": 1,
+      "start": 267.2,
+      "text": "Adam knew Eve his wife again.",
+      "verse": 25
+    },
+    {
+      "end": 275.1,
+      "line": 2,
+      "start": 271.9,
+      "text": "She bore a son and named him Seth:",
+      "verse": 25
+    },
+    {
+      "end": 280.2,
+      "line": 3,
+      "start": 275.1,
+      "text": "God has raised another seed for me",
+      "verse": 25
+    },
+    {
+      "end": 286.0,
+      "line": 4,
+      "start": 280.2,
+      "text": "in place of Abel, whom Cain killed.",
+      "verse": 25
+    },
+    {
+      "end": 290.0,
+      "line": 1,
+      "start": 286.9,
+      "text": "Seth also had a son",
+      "verse": 26
+    },
+    {
+      "end": 293.4,
+      "line": 2,
+      "start": 290.0,
+      "text": "and named him Enos.",
+      "verse": 26
+    },
+    {
+      "end": 295.0,
+      "line": 3,
+      "start": 293.4,
+      "text": "He hoped to call upon",
+      "verse": 26
+    },
+    {
+      "end": 299.0,
+      "line": 4,
+      "start": 295.0,
+      "text": "the name of the Lord God.",
+      "verse": 26
+    }
+  ],
+  "status": "machine_aligned"
+}
