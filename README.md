@@ -7,6 +7,10 @@ and renders kinetic type over a slowly moving dark visual field. Optional cover
 art becomes the backdrop. Audio is copied bit for bit at intake; the video
 mux uses that frozen copy.
 
+Built with the Ark engine: https://github.com/omiron33/ark-video-studio
+
+Listen and watch: [technochristianity.com/music](https://technochristianity.com/music) · [TechnoChristianity on YouTube](https://www.youtube.com/@technochristianity)
+
 ## Inputs
 
 - The selected complete MP3 or WAV and its expected SHA-256.
